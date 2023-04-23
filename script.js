@@ -1,4 +1,4 @@
-//inserir números ao resultado
+//inserir números/operações ao resultado
 
 function insert(num) {
     var numero = document.getElementById("resultado").innerHTML;
